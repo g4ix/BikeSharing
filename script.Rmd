@@ -56,10 +56,10 @@ bike_rent$env.temp = bike_rent$temp*(39+8) - 8
 # converto la temperatura percepita 
 bike_rent$feel.temp = bike_rent$atemp*(50+16) - 16
 
-# coverto l'umidita' 
+# converto l'umidita' 
 bike_rent$hum = bike_rent$hum*100
 
-# coverto la velocita' del vento 
+# converto la velocita' del vento 
 bike_rent$windspeed = bike_rent$windspeed*67
 
 
